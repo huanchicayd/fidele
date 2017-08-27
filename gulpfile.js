@@ -1,10 +1,12 @@
 var gulp = require('gulp');
     imagemin = require('gulp-imagemin');
     clean = require('gulp-clean');
+    uglify = require('gulp-uglify');
     cssmin = require('gulp-cssmin');
+    htmlmin = require('gulp-htmlmin');
 
 gulp.task('default', ['copy'], function(){
-    gulp.start('build-img', 'build-css');
+    gulp.start('build-img', 'build-js', 'build-css', 'build-html');
 });
 
 gulp.task('copy', ['clean'], function(){
@@ -26,8 +28,20 @@ gulp.task('build-img', function(){
         .pipe(gulp.dest('dist/img'));
 });
 
+gulp.task('build-js', function(){
+    gulp.src('dev/scripts/**/*')
+        .pipe(uglify())
+        .pipe(gulp.dest('dist/scripts'));
+});
+
 gulp.task('build-css', function(){
     gulp.src('dev/styles/*.css')
         .pipe(cssmin())
         .pipe(gulp.dest('dist/styles'));
+});
+
+gulp.task('build-html', function(){
+    gulp.src('dev/*.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('dist'));
 });

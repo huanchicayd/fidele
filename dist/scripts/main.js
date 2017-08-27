@@ -1,8 +1,1 @@
-$('document').ready(function(){
-
-    //Slider home
-    $('.slider').slick({
-        dots: true
-    });
-
-});
+$("document").ready(function(){$(".slider").slick({dots:!0,autoplay:!0})});
