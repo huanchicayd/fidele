@@ -1,0 +1,30 @@
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+html {
+
+}
+
+body {
+  color: $text-color;
+  overflow-x: hidden;
+  font-family: 'FuturaStd-Light';
+}
+
+p {
+  margin-bottom: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+}
+
+a:visited {
+
+}

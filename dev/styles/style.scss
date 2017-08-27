@@ -1,12 +1,20 @@
+@import 'base/_fontes';
+
 @import 'helpers/_variaveis';
 @import 'helpers/_mixins';
 @import 'helpers/_functions';
 
+@import 'base/_normalize';
+
 @import 'base/_base';
+@import 'base/_grid';
+
+@import 'plugins/_slick';
 
 @import 'layout/_header';
 @import 'layout/_content';
 @import 'layout/_footer';
 
 @import 'components/_nav';
+@import 'components/_main-slider';
 @import 'components/_thumb';

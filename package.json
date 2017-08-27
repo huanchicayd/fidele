@@ -1,0 +1,32 @@
+{
+  "name": "fidele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "cssmin": "^0.4.3",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-connect-php": "^1.0.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanchicayd/fidele.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huanchicayd/fidele/issues"
+  },
+  "homepage": "https://github.com/huanchicayd/fidele#readme"
+}

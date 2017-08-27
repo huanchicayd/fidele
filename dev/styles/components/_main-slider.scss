@@ -1,0 +1,27 @@
+.slider {
+  height: 650px;
+
+  .slider__slider01 {
+    height: 650px;
+    outline: 0;
+    background: url('../images/slider-image-01.png') no-repeat top center;
+    background-size: cover;
+  }
+
+  .slider__box {
+    position: absolute;
+    bottom: 25%;
+    background: $primary-transparent;
+    border: 5px solid #fff;
+    padding: 15px;
+
+      h1 {
+
+      }
+  }
+
+  .container {
+    position: relative;
+    height: 100%;
+  }
+}
