@@ -5,7 +5,7 @@
         <div class="slider__slider01">
             <div class="container">
                 <div class="slider__box">
-                    <h1>Sorria,</h1>
+                    <h1 class="slider__box__titulo">Sorria,</h1>
                     <h6>e seja bem-vindo!</h6>
                 </div>
             </div>
@@ -51,8 +51,33 @@
                 <div class="col-lg-4">
                     <div class="thumb">
                         <h2>Estética</h2>
-                        <img src="" alt="">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab amet consectetur dolore maiores repudiandae rerum sit veniam voluptate. Distinctio eos esse explicabo facere illum officiis. Et expedita molestiae neque soluta?</p>
+                        <a href="#" class="thumb--active">
+                            <div class="thumb__container">
+                                <div class="thumb__overlay">
+                                    <img src="images/estetica-icon.svg" alt="">
+                                </div>
+                                <img src="images/estetica_mini.jpg" alt="Imagem de menina em tratamento dental">
+                            </div>
+                            <p>Corresponde ao tratamento de toda a estética dental: desde restaurações, clareamento e materiais dentários.</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="thumb">
+                        <h2>Estética</h2>
+                        <a href="#">
+                            <img src="images/estetica_mini.jpg" alt="Imagem de menina em tratamento dental">
+                            <p>Corresponde ao tratamento de toda a estética dental: desde restaurações, clareamento e materiais dentários.</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="thumb">
+                        <h2>Estética</h2>
+                        <a href="#">
+                            <img src="images/estetica_mini.jpg" alt="Imagem de menina em tratamento dental">
+                            <p>Corresponde ao tratamento de toda a estética dental: desde restaurações, clareamento e materiais dentários.</p>
+                        </a>
                     </div>
                 </div>
             </div>

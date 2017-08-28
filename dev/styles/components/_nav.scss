@@ -1,10 +1,33 @@
+.navbar-nav {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
-  width: 100%;
-  text-transform: uppercase;
+  width: 70%;
+  transform: translatey(-10px);
 
   a {
     color: #fff;
+    font-family: $text-medium;
+    font-size: 18px;
+    text-transform: uppercase;
+
+    &:hover {
+      color: $color-primary;
+      text-decoration: underline;
+    }
+  }
+
+  .nav--divider {
+    display: inline-block;
+    background: #fff;
+    width: 1px;
+    height: 18px;
   }
 }

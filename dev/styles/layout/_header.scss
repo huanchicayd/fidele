@@ -3,7 +3,13 @@
   top: 0;
   left: 0;
   width: 100%;
-  padding: 25px 0;
-  background: $nav-color;
+  padding: 58px 0 15px 0;
+  background: url("../images/bg.svg") repeat-x top left, $nav-color;
+  background-size: 460px;
   z-index: 10;
+  box-shadow: 0 8px 8px rgba(0,0,0,.15);
+
+  .brand img {
+    width: 229px;
+  }
 }

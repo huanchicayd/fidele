@@ -13,19 +13,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
-
-                </div>
-                <div class="brand">
-                    <a href="#">
-                        <img src="" alt="">
-                    </a>
+                    <div class="brand">
+                        <a href="index.php">
+                            <img src="images/logo.svg" alt="Logotipo da Fidele">
+                        </a>
+                    </div>
                 </div>
                 <div class="col-lg-9">
                     <nav class="navbar-nav">
                         <ul class="nav">
                             <li class="nav__item"><a href="#">Home</a></li>
+                            <span class="nav--divider"></span>
                             <li class="nav__item"><a href="#">Sobre</a></li>
+                            <span class="nav--divider"></span>
                             <li class="nav__item"><a href="#">Especialidades</a></li>
+                            <span class="nav--divider"></span>
                             <li class="nav__item"><a href="#">Contato</a></li>
                         </ul>
                     </nav>

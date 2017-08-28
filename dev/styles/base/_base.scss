@@ -19,12 +19,19 @@ p {
 }
 
 a {
+  color: $text-color;
   text-decoration: none;
 }
 
 a:hover {
+  color: $color-primary;
 }
 
 a:visited {
+  color: $color-secondary;
+}
 
+img {
+  display: block;
+  width: 100%;
 }
