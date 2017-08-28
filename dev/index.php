@@ -10,37 +10,37 @@
                 </div>
             </div>
         </div>
-        <div class="slider__slider01">
+        <div class="slider__slider02">
             <div class="container">
                 <div class="slider__box">
-                    <h1>Sorria,</h1>
-                    <h6>e seja bem-vindo!</h6>
+                    <h1>Nossa equipe,</h1>
+                    <h6>se une para atender você!</h6>
                 </div>
             </div>
         </div>
-        <div class="slider__slider01">
+        <div class="slider__slider03">
             <div class="container">
                 <div class="slider__box">
-                    <h1>Sorria,</h1>
-                    <h6>e seja bem-vindo!</h6>
+                    <h1>Conquiste,</h1>
+                    <h6>um sorriso perfeito!</h6>
                 </div>
             </div>
         </div>
-        <div class="slider__slider01">
+        <div class="slider__slider04">
             <div class="container">
                 <div class="slider__box">
-                    <h1>Sorria,</h1>
-                    <h6>e seja bem-vindo!</h6>
+                    <h1>Reabilitação oral,</h1>
+                    <h6>para cirurgia bariátrica</h6>
                 </div>
             </div>
         </div>
     </section>
-    <section>
+    <section class="home-atendimento">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h2>Horário de Atendimento</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, assumenda corporis dignissimos dolore dolorem ea nesciunt nihil officia pariatur perspiciatis, quae quia quisquam repellat repellendus sunt temporibus unde veritatis, voluptates.</p>
+                    <p>Dias e horários de atendimento: Segunda à Sexta-feira, das 8h às 18h.</p>
                 </div>
             </div>
         </div>
@@ -50,7 +50,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="thumb">
-                        <h2>Estética</h2>
+                        <h3>Estética</h3>
                         <a href="#" class="thumb--active">
                             <div class="thumb__container">
                                 <div class="thumb__overlay">
@@ -64,19 +64,29 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="thumb">
-                        <h2>Estética</h2>
-                        <a href="#">
-                            <img src="images/estetica_mini.jpg" alt="Imagem de menina em tratamento dental">
-                            <p>Corresponde ao tratamento de toda a estética dental: desde restaurações, clareamento e materiais dentários.</p>
+                        <h3>Implantodontia</h3>
+                        <a href="#" class="thumb--active">
+                            <div class="thumb__container">
+                                <div class="thumb__overlay">
+                                    <img src="images/implante-icon.svg" alt="">
+                                </div>
+                                <img src="images/implante_mini.jpg" alt="Imagem de menina em tratamento dental">
+                            </div>
+                            <p>O implante dental é indicado para repor a perda de todos os dentes, alguns ou de apenas um dente.</p>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="thumb">
-                        <h2>Estética</h2>
-                        <a href="#">
-                            <img src="images/estetica_mini.jpg" alt="Imagem de menina em tratamento dental">
-                            <p>Corresponde ao tratamento de toda a estética dental: desde restaurações, clareamento e materiais dentários.</p>
+                        <h3>Ortodontia</h3>
+                        <a href="#" class="thumb--active">
+                            <div class="thumb__container">
+                                <div class="thumb__overlay">
+                                    <img src="images/orto-icon.svg" alt="">
+                                </div>
+                                <img src="images/odonto_mini.jpg" alt="Imagem de menina em tratamento dental">
+                            </div>
+                            <p>É a especialidade responsável por corrigir dentes e ossos maxilares posicionados de forma inadequada.</p>
                         </a>
                     </div>
                 </div>

@@ -11,7 +11,9 @@ html {
 body {
   color: $text-color;
   overflow-x: hidden;
-  font-family: 'FuturaStd-Light';
+  font-family: $text-light;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 p {
@@ -34,4 +36,9 @@ a:visited {
 img {
   display: block;
   width: 100%;
+}
+
+h2 {
+  font-family: $text-bold;
+  text-transform: uppercase;
 }

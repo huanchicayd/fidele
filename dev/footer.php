@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-9">
-                Fidele
+                Fidele | Odontologia de confiança
             </div>
             <div class="col-lg-3">
                 Social media
@@ -11,7 +11,10 @@
         <div class="row">
             <div class="col-lg-9">
                 <address>
-                    Endereço
+                    <strong>(21) 2577 4486 - 2577 0820 . contato@fideleodontologia.com.br</strong><br>
+                    Av. Vinte e Oito de Setembro, 362<br>
+                    Salas 101 e 102 . 1º andar . Vila Isabel<br>
+                    Rio de Janeiro . CEP 20551031
                 </address>
             </div>
             <div class="col-lg-3">

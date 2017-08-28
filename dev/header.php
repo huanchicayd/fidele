@@ -12,15 +12,18 @@
     <header class="navbar">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                     <div class="brand">
                         <a href="index.php">
                             <img src="images/logo.svg" alt="Logotipo da Fidele">
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-9">
+                <div class="col-lg-9 col-md-6 col-sm-6 col-6">
                     <nav class="navbar-nav">
+                        <button class="navbar-nav__btn-menu">
+                            <span></span>
+                        </button>
                         <ul class="nav">
                             <li class="nav__item"><a href="#">Home</a></li>
                             <span class="nav--divider"></span>
