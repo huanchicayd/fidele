@@ -1,0 +1,25 @@
+.banner {
+  height: 450px;
+  
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 450px;
+    background: url("../images/slider-bg.svg");
+    z-index: 1;
+  }
+}
+
+.banner__banner-sobre {
+   background: url("../images/banner-sobre.png") no-repeat top center;
+   background-size: cover;
+ }
+
+.banner__banner-especialidades {
+  background: url("../images/banner-especialidades.png") no-repeat top center;
+  background-size: cover;
+}

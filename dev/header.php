@@ -25,13 +25,13 @@
                             <span></span>
                         </button>
                         <ul class="nav">
-                            <li class="nav__item"><a href="#">Home</a></li>
+                            <li class="nav__item"><a href="index.php">Home</a></li>
                             <span class="nav--divider"></span>
-                            <li class="nav__item"><a href="#">Sobre</a></li>
+                            <li class="nav__item"><a href="sobre.php">Sobre</a></li>
                             <span class="nav--divider"></span>
-                            <li class="nav__item"><a href="#">Especialidades</a></li>
+                            <li class="nav__item"><a href="especialidades.php">Especialidades</a></li>
                             <span class="nav--divider"></span>
-                            <li class="nav__item"><a href="#">Contato</a></li>
+                            <li class="nav__item"><a href="contato.php">Contato</a></li>
                         </ul>
                     </nav>
                 </div>

@@ -3,14 +3,16 @@
 <main>
     <section class="slider">
         <div class="slider__slider01">
+            <div class="slider--bg"></div>
             <div class="container">
                 <div class="slider__box">
-                    <h1 class="slider__box__titulo">Sorria,</h1>
+                    <h1>Sorria,</h1>
                     <h6>e seja bem-vindo!</h6>
                 </div>
             </div>
         </div>
         <div class="slider__slider02">
+            <div class="slider--bg"></div>
             <div class="container">
                 <div class="slider__box">
                     <h1>Nossa equipe,</h1>
@@ -19,6 +21,7 @@
             </div>
         </div>
         <div class="slider__slider03">
+            <div class="slider--bg"></div>
             <div class="container">
                 <div class="slider__box">
                     <h1>Conquiste,</h1>
@@ -27,6 +30,7 @@
             </div>
         </div>
         <div class="slider__slider04">
+            <div class="slider--bg"></div>
             <div class="container">
                 <div class="slider__box">
                     <h1>Reabilitação oral,</h1>
