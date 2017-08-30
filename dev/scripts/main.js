@@ -7,4 +7,9 @@ $('document').ready(function(){
         arrows: false
     });
 
+    $('.navbar-nav__btn-menu').click(function(e){
+        e.preventDefault();
+        $('.nav').toggleClass('active-menu');
+    });
+
 });

@@ -1,0 +1,36 @@
+.sobre__galeria {
+  img {
+    margin-bottom: 30px;
+  }
+}
+
+.sobre__description {
+  margin-bottom: 75px;
+
+  h6 {
+    font-size: 18px;
+    font-family: $text-bold;
+  }
+}
+
+.especialidades__description {
+  margin-bottom: 75px;
+}
+
+.mapa {
+  margin: 30px 0;
+}
+
+.contato-informacoes {
+  img {
+    width: 100px;
+    display: block;
+    margin: 0 auto 25px auto;
+  }
+
+  h6 {
+    margin-top: 25px;
+    font-family: $text-bold;
+    font-size: 18px;
+  }
+}

@@ -47,11 +47,22 @@
     text-align: center;
     z-index: 100;
 
+    @media(max-width: 480px){
+      padding: 15px;
+      width: 90%;
+      left: 50%;
+      transform: translatex(-50%);
+    }
+
     h1 {
       font-family: $text-especial;
       font-size: 50px;
       color: #fff;
       margin: 0 0 20px 0;
+
+      @media(max-width: 480px) {
+        font-size: 40px;
+      }
     }
 
     h6 {

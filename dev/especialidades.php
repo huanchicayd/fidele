@@ -6,8 +6,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2>Especialidades</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius enim ex ipsum nemo nostrum omnis quia vel. Accusantium cumque debitis deleniti excepturi provident qui similique veritatis? Commodi, fugiat quis.</p>
+                        <div class="especialidades__description">
+                            <h2>Especialidades | Seu atendimento é sempre prioridade!</h2>
+                            <p>Ao sinal de qualquer desconforto, ou sintoma diferente do habitual, compareça à clínica para realizar um atendimento de urgência. Caso seja possível, avise-nos que está a caminho, assim fica bem mais fácil prestarmos o atendimento necessário.</p>
+                        </div>
                     </div>
                 </div>
             </div>

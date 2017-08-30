@@ -2,10 +2,11 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  box-sizing: border-box;
 }
 
 html {
-
+  overflow-x: hidden;
 }
 
 body {
@@ -41,4 +42,10 @@ img {
 h2 {
   font-family: $text-bold;
   text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.linha {
+  height: 2px;
+  background: $color-primary;
 }

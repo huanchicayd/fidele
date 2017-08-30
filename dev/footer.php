@@ -1,25 +1,34 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-lg-9">
-                Fidele | Odontologia de confiança
+            <div class="col-lg-9 col-sm-9 col-12">
+                <div class="footer__fidele-name">
+                    <h3>Fidele<span class="fidele-name__tagline">Odontologia de confiança</span></h3>
+                </div>
             </div>
-            <div class="col-lg-3">
-                Social media
+            <div class="col-lg-3 col-sm-3 col-12">
+                <div class="social-media">
+                    <a href="#">
+                        <i class="socialfacebook"></i>
+                    </a>
+                </div>
             </div>
         </div>
+        <div class="footer-line"></div>
         <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-9 col-sm-9 col-12">
                 <address>
-                    <strong>(21) 2577 4486 - 2577 0820 . contato@fideleodontologia.com.br</strong><br>
+                    <strong>(21) 2577 4486 - 2577 0820 . laura@fideleodontologia.com.br</strong><br>
                     Av. Vinte e Oito de Setembro, 362<br>
                     Salas 101 e 102 . 1º andar . Vila Isabel<br>
-                    Rio de Janeiro . CEP 20551031
+                    Rio de Janeiro . CEP 20551-031
                 </address>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-sm-3 col-12">
                 <div class="copyright">
-
+                    <a href="#">
+                        <i class="logo-natio"></i>
+                    </a>
                 </div>
             </div>
         </div>
