@@ -1,1 +1,1 @@
-$("document").ready(function(){$(".slider").slick({dots:!0,autoplay:!0,arrows:!1}),$(".navbar-nav__btn-menu").click(function(n){n.preventDefault(),$(".nav").toggleClass("active-menu")})});
+$("document").ready(function(){$(".slider").slick({arrows:!1,dots:!0,autoplay:!0,autoplaySpeed:3e3,speed:1500}),$(".navbar-nav__btn-menu").click(function(e){e.preventDefault(),$(".nav").toggleClass("active-menu")})});

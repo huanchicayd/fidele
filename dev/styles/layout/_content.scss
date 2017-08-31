@@ -1,3 +1,4 @@
+//Sobre
 .sobre__galeria {
   img {
     margin-bottom: 30px;
@@ -13,12 +14,40 @@
   }
 }
 
+
+//Especialidades
 .especialidades__description {
   margin-bottom: 75px;
 }
 
+//Implantodontia
+.implantodontia__lista {
+  li {
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 35px;
+
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 25px;
+      height: 25px;
+      background: url("../images/check.svg") no-repeat;
+      background-size: cover;
+    }
+  }
+}
+
+//Contato
+.contato__description {
+  margin-bottom: 75px;
+}
+
 .mapa {
-  margin: 30px 0;
+  margin: 50px 0;
 }
 
 .contato-informacoes {

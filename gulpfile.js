@@ -1,5 +1,6 @@
 var gulp = require('gulp');
     imagemin = require('gulp-imagemin');
+    imageminJpegRecompress = require('imagemin-jpeg-recompress');
     clean = require('gulp-clean');
     uglify = require('gulp-uglify');
     cssmin = require('gulp-cssmin');
@@ -23,9 +24,16 @@ gulp.task('clean', function(){
 });
 
 gulp.task('build-img', function(){
-    gulp.src('dev/img/**/*')
-        .pipe(imagemin())
-        .pipe(gulp.dest('dist/img'));
+    gulp.src('dev/images/**/*')
+        .pipe(imagemin([
+            imageminJpegRecompress({
+                loops: 6,
+                min: 40,
+                max: 85,
+                quality: 'low'
+            })
+        ]))
+        .pipe(gulp.dest('dist/images'));
 });
 
 gulp.task('build-js', function(){

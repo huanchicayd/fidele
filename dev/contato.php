@@ -6,8 +6,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2>Contato</h2>
-                        <p>Marque uma consulta de avaliação com nossos especialistas e descubra de que forma o tratamento odontológico pode contribuir para a conquista de um sorriso saudável e bonito como você merece.</p>
+                        <div class="contato__description">
+                            <h2>Contato</h2>
+                            <p>Marque uma consulta de avaliação com nossos especialistas e descubra de que forma o tratamento odontológico pode contribuir para a conquista de um sorriso saudável e bonito como você merece.</p>
+                        </div>
                     </div>
                 </div>
             </div>
