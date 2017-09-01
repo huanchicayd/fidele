@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="sobre__description">
-                            <h2>Sobre a Fidele | Estamos felizes em receber você!</h2>
+                            <h2>Sobre a Fidele <span class="tagline">| Estamos felizes em receber você!</span></h2>
                             <p>Desenhamos um modelo inovador em atendimento odontológico, em que visualizamos as necessidades de cada paciente e trabalhamos em conjunto para entregar estética e saúde oral para todos que desejam melhorar sua qualidade de vida e conquistar mais saúde.</p>
 
                             <h6>Objetivo</h6>

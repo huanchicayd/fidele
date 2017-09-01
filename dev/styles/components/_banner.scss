@@ -1,7 +1,7 @@
 .banner {
   height: 450px;
   margin-bottom: 90px;
-  border-bottom: 6px solid lighten($color-primary, 53%);
+  border-bottom: 6px solid $color-primary-light;
   
   &:after {
     content: '';
@@ -24,9 +24,17 @@
 .banner__banner-especialidades {
   background: url("../images/banner-especialidades.jpg") no-repeat top center;
   background-size: cover;
+
+  @media(max-width: 480px){
+    background-position: left;
+  }
 }
 
 .banner__banner-contato {
   background: url("../images/banner-contato.jpg") no-repeat top right;
   background-size: cover;
+
+  @media(max-width: 480px){
+    background-position: center;
+  }
 }

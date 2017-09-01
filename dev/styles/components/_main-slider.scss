@@ -2,13 +2,21 @@
   height: 650px;
   margin-bottom: 90px;
 
+  @media(max-width: 480px){
+    height: 500px;
+  }
+
   .slider__slider01 {
     height: 650px;
     outline: 0;
     background: url('../images/slider-image-01.jpg') no-repeat top center;
     background-size: cover;
-    border-bottom: 6px solid lighten($color-primary, 50%);
+    border-bottom: 6px solid $color-primary-light;
     position: relative;
+
+    @media(max-width: 480px){
+      height: 500px;
+    }
   }
 
   .slider__slider02 {
@@ -16,8 +24,12 @@
     outline: 0;
     background: url('../images/slider-image-02.jpg') no-repeat top center;
     background-size: cover;
-    border-bottom: 6px solid lighten($color-primary, 50%);
+    border-bottom: 6px solid $color-primary-light;
     position: relative;
+
+    @media(max-width: 480px){
+      height: 500px;
+    }
   }
 
   .slider__slider03 {
@@ -25,8 +37,12 @@
     outline: 0;
     background: url('../images/slider-image-03.jpg') no-repeat top center;
     background-size: cover;
-    border-bottom: 6px solid lighten($color-primary, 50%);
+    border-bottom: 6px solid $color-primary-light;
     position: relative;
+
+    @media(max-width: 480px){
+      height: 500px;
+    }
   }
 
   .slider__slider04 {
@@ -34,8 +50,12 @@
     outline: 0;
     background: url('../images/slider-image-04.jpg') no-repeat top center;
     background-size: cover;
-    border-bottom: 6px solid lighten($color-primary, 50%);
+    border-bottom: 6px solid $color-primary-light;
     position: relative;
+
+    @media(max-width: 480px){
+      height: 500px;
+    }
   }
 
   .slider__box {
@@ -46,6 +66,10 @@
     padding: 25px 70px;
     text-align: center;
     z-index: 100;
+
+    @media(max-width: 575px){
+      padding: 25px 40px;
+    }
 
     @media(max-width: 480px){
       padding: 15px;
@@ -60,6 +84,10 @@
       color: #fff;
       margin: 0 0 20px 0;
 
+      @media(max-width: 575px){
+        font-size: 45px;
+      }
+
       @media(max-width: 480px) {
         font-size: 40px;
       }
@@ -69,6 +97,7 @@
       color: #fff;
       font-size: 20px;
       text-transform: uppercase;
+      font-family: $text-medium;
     }
   }
 

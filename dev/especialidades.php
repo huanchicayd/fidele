@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="especialidades__description">
-                            <h2>Especialidades | Seu atendimento é sempre prioridade!</h2>
+                            <h2>Especialidades <span class="tagline">| Seu atendimento é sempre prioridade!</span></h2>
                             <p>Ao sinal de qualquer desconforto, ou sintoma diferente do habitual, compareça à clínica para realizar um atendimento de urgência. Caso seja possível, avise-nos que está a caminho, assim fica bem mais fácil prestarmos o atendimento necessário.</p>
                         </div>
                     </div>
@@ -19,7 +19,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumb">
-                            <h3>Estética</h3>
+                            <h3>Restauração estética</h3>
                             <a href="estetica.php" class="thumb--active">
                                 <div class="thumb__container">
                                     <div class="thumb__overlay">
@@ -62,7 +62,7 @@
                     <div class="col-lg-4">
                         <div class="thumb">
                             <h3>Prevenção</h3>
-                            <a href="#" class="thumb--active">
+                            <a href="prevencao.php" class="thumb--active">
                                 <div class="thumb__container">
                                     <div class="thumb__overlay">
                                         <img src="images/prev-icon.svg" alt="">
@@ -76,7 +76,7 @@
                     <div class="col-lg-4">
                         <div class="thumb">
                             <h3>Prótese dentária</h3>
-                            <a href="#" class="thumb--active">
+                            <a href="protese.php" class="thumb--active">
                                 <div class="thumb__container">
                                     <div class="thumb__overlay">
                                         <img src="images/protese-icon.svg" alt="">
@@ -90,7 +90,7 @@
                     <div class="col-lg-4">
                         <div class="thumb">
                             <h3>Endodontia</h3>
-                            <a href="#" class="thumb--active">
+                            <a href="endodontia.php" class="thumb--active">
                                 <div class="thumb__container">
                                     <div class="thumb__overlay">
                                         <img src="images/endo-icon.svg" alt="">

@@ -2,33 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="417b02cd-a0fe-4aeb-b461-3fc79b4fc823" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/estetica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/implantodontia.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/ortodontia.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/endo_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/endo_mini.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/estetica_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/estetica_mini.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele2.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele3.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele4.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele5.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele6.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/implante_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/implante_mini.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/odonto_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/odonto_mini.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev_mini.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/protese_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/protese_mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/endodontia.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/nav-especialidades.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/prevencao.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protese.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/styles/components/_nav-especialidades.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/contato.php" afterPath="$PROJECT_DIR$/dev/contato.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/especialidades.php" afterPath="$PROJECT_DIR$/dev/especialidades.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/estetica.php" afterPath="$PROJECT_DIR$/dev/estetica.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/footer.php" afterPath="$PROJECT_DIR$/dev/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/header.php" afterPath="$PROJECT_DIR$/dev/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/implantodontia.php" afterPath="$PROJECT_DIR$/dev/implantodontia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/index.php" afterPath="$PROJECT_DIR$/dev/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/ortodontia.php" afterPath="$PROJECT_DIR$/dev/ortodontia.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/scripts/main.js" afterPath="$PROJECT_DIR$/dev/scripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/sobre.php" afterPath="$PROJECT_DIR$/dev/sobre.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/base/_base.scss" afterPath="$PROJECT_DIR$/dev/styles/base/_base.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/components/_banner.scss" afterPath="$PROJECT_DIR$/dev/styles/components/_banner.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" afterPath="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/components/_nav.scss" afterPath="$PROJECT_DIR$/dev/styles/components/_nav.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss" afterPath="$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/layout/_content.scss" afterPath="$PROJECT_DIR$/dev/styles/layout/_content.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/layout/_footer.scss" afterPath="$PROJECT_DIR$/dev/styles/layout/_footer.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/style.css" afterPath="$PROJECT_DIR$/dev/styles/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/style.css.map" afterPath="$PROJECT_DIR$/dev/styles/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/style.scss" afterPath="$PROJECT_DIR$/dev/styles/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/especialidades.php" afterPath="$PROJECT_DIR$/dist/especialidades.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/estetica.php" afterPath="$PROJECT_DIR$/dist/estetica.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/footer.php" afterPath="$PROJECT_DIR$/dist/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/header.php" afterPath="$PROJECT_DIR$/dist/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/implantodontia.php" afterPath="$PROJECT_DIR$/dist/implantodontia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.php" afterPath="$PROJECT_DIR$/dist/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/ortodontia.php" afterPath="$PROJECT_DIR$/dist/ortodontia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/scripts/main.js" afterPath="$PROJECT_DIR$/dist/scripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sobre.php" afterPath="$PROJECT_DIR$/dist/sobre.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/styles/style.css" afterPath="$PROJECT_DIR$/dist/styles/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,6 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>proteger os dentes</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,31 +76,36 @@
         <option value="$PROJECT_DIR$/dev/styles/base/_normalize.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss" />
         <option value="$PROJECT_DIR$/dev/styles/base/_reset.scss" />
         <option value="$PROJECT_DIR$/dev/styles/plugins/_slick.scss" />
         <option value="$PROJECT_DIR$/dev/styles/layout/_index.scss" />
         <option value="$PROJECT_DIR$/dev/styles/components/_thumb.scss" />
-        <option value="$PROJECT_DIR$/dev/index.php" />
-        <option value="$PROJECT_DIR$/dev/styles/style.scss" />
         <option value="$PROJECT_DIR$/dev/styles/base/_fontes.scss" />
-        <option value="$PROJECT_DIR$/dev/sobre.php" />
-        <option value="$PROJECT_DIR$/dev/styles/components/_nav.scss" />
-        <option value="$PROJECT_DIR$/dev/footer.php" />
-        <option value="$PROJECT_DIR$/dev/styles/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/dev/styles/layout/_header.scss" />
-        <option value="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/dev/styles/components/_banner.scss" />
         <option value="$PROJECT_DIR$/dev/contato.php" />
+        <option value="$PROJECT_DIR$/dev/index.php" />
         <option value="$PROJECT_DIR$/dev/header.php" />
-        <option value="$PROJECT_DIR$/dev/scripts/main.js" />
-        <option value="$PROJECT_DIR$/dev/styles/layout/_content.scss" />
+        <option value="$PROJECT_DIR$/dev/footer.php" />
         <option value="$PROJECT_DIR$/dev/styles/base/_base.scss" />
-        <option value="$PROJECT_DIR$/dev/implantodontia.php" />
-        <option value="$PROJECT_DIR$/dev/estetica.php" />
         <option value="$PROJECT_DIR$/dev/especialidades.php" />
+        <option value="$PROJECT_DIR$/dev/sobre.php" />
+        <option value="$PROJECT_DIR$/dev/styles/layout/_footer.scss" />
+        <option value="$PROJECT_DIR$/dev/styles/components/_nav.scss" />
+        <option value="$PROJECT_DIR$/dev/styles/layout/_content.scss" />
+        <option value="$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss" />
+        <option value="$PROJECT_DIR$/dev/styles/components/_banner.scss" />
+        <option value="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" />
+        <option value="$PROJECT_DIR$/dev/styles/style.scss" />
+        <option value="$PROJECT_DIR$/dev/estetica.php" />
+        <option value="$PROJECT_DIR$/dev/scripts/main.js" />
+        <option value="$PROJECT_DIR$/dev/nav-especialidades.php" />
+        <option value="$PROJECT_DIR$/dev/styles/components/_nav-especialidades.scss" />
+        <option value="$PROJECT_DIR$/dev/endodontia.php" />
+        <option value="$PROJECT_DIR$/dev/implantodontia.php" />
         <option value="$PROJECT_DIR$/dev/ortodontia.php" />
+        <option value="$PROJECT_DIR$/dev/prevencao.php" />
+        <option value="$PROJECT_DIR$/dev/protese.php" />
       </list>
     </option>
   </component>
@@ -112,7 +130,7 @@
       <path value="" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="214" />
     <option name="y" value="16" />
     <option name="width" value="1303" />
@@ -150,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,10 +175,56 @@
               <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
               <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="base" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="helpers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -222,17 +285,19 @@
       <workItem from="1504006156070" duration="5336000" />
       <workItem from="1504021719638" duration="8855000" />
       <workItem from="1504036146734" duration="14433000" />
-      <workItem from="1504092077817" duration="15799000" />
+      <workItem from="1504092077817" duration="16946000" />
+      <workItem from="1504177640389" duration="9352000" />
+      <workItem from="1504266068704" duration="17230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100430000" />
+    <option name="totallyTimeSpent" value="128159000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13624679" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13946016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
@@ -240,7 +305,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6910345" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32413793" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -264,17 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/header.php" />
-    <entry file="file://$PROJECT_DIR$/styles/style.scss" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/styles/layout/_header.scss" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/styles/style.scss" />
     <entry file="file://$PROJECT_DIR$/dist/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -392,14 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/styles/base/_fontes.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3196">
@@ -408,29 +454,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="85" column="58" lean-forward="false" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/social/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/sobre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/social/style.css" />
     <entry file="file://$PROJECT_DIR$/dev/styles/base/_grid.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48246">
@@ -439,65 +463,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/components/_nav.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2618">
-          <caret line="77" column="14" lean-forward="false" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/images/rolling.gif">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/components/_banner.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="29" column="45" lean-forward="false" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/contato.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/components/_main-slider.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/styles/layout/_header.scss">
@@ -508,42 +483,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/layout/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="285">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/implantodontia.php">
+    <entry file="file://$PROJECT_DIR$/dev/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-680">
+          <caret line="57" column="45" lean-forward="false" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="105" lean-forward="false" selection-start-line="31" selection-start-column="105" selection-end-line="31" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/contato.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="46" column="73" lean-forward="false" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/ortodontia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3468">
-          <caret line="82" column="24" lean-forward="false" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/estetica.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -551,31 +518,151 @@
     <entry file="file://$PROJECT_DIR$/dev/especialidades.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="50" column="51" lean-forward="false" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+          <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss">
+    <entry file="file://$PROJECT_DIR$/dev/sobre.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/layout/_content.scss">
+    <entry file="file://$PROJECT_DIR$/dev/styles/layout/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        <state relative-caret-position="408">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/styles/base/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+        <state relative-caret-position="285">
+          <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/components/_nav-especialidades.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/nav-especialidades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/estetica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/prevencao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/implantodontia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/components/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="90" column="3" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/layout/_content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="81" column="26" lean-forward="false" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/ortodontia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/components/_banner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/components/_main-slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="52" column="49" lean-forward="false" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/endodontia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>

@@ -14,13 +14,57 @@
   }
 }
 
-
 //Especialidades
 .especialidades__description {
   margin-bottom: 75px;
 }
 
+//Estetica
+.estetica__descricao {
+  margin-bottom: 25px;
+
+  img {
+    @media(max-width: 991px){}
+    margin-bottom: 25px;
+  }
+}
+
+.estetica__detalhes {
+  margin-top: 50px;
+
+  img {
+    @media(max-width: 991px){}
+    margin-bottom: 25px;
+  }
+}
+
 //Implantodontia
+.implantodontia__descricao {
+  margin-bottom: 35px;
+}
+
+.implantodontia__descricao__imagens {
+  text-align: center;
+
+  @media(max-width: 575px){
+    margin-bottom: 25px;
+  }
+}
+
+.implantodontia__detalhes__enxerto {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.implantodontia__detalhes__carga {
+  margin-top: 50px;
+
+  img {
+    @media(max-width: 991px){}
+    margin-bottom: 25px;
+  }
+}
+
 .implantodontia__lista {
   li {
     margin-bottom: 20px;
@@ -41,9 +85,164 @@
   }
 }
 
+//Ortodontia
+.ortodontia__descricao {
+  margin-bottom: 35px;
+
+  img {
+    @media(max-width: 991px){}
+      margin-bottom: 25px;
+  }
+}
+
+.ortodontia__detalhes__como-saber {
+  margin-top: 50px;
+  margin-bottom: 25px;
+
+  img {
+    margin-bottom: 25px;
+  }
+}
+
+.ortodontia__detalhes__como-funciona {
+  margin-top: 50px;
+
+  img {
+    @media(max-width: 991px){}
+    margin-bottom: 25px;
+  }
+}
+
+.ortodontia__orto_detalhes {
+  p {
+    font-size: 16px;
+  }
+}
+
+//Prevenção
+.prevencao__descricao {
+  margin-bottom: 25px;
+}
+
+.prevencao__detalhes {
+  margin-top: 50px;
+  margin-bottom: 25px;
+
+  img {
+    margin-bottom: 25px;
+  }
+
+  img {
+    @media(max-width: 991px){
+      margin-bottom: 25px;
+    }
+
+
+    &:first-child {
+      @media(max-width: 991px){}
+        margin-top: 25px;
+    }
+  }
+}
+
+.prevencao__detalhes__vantagens {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.prevencao__detalhes__protetor {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.prevencao__detalhes__placas {
+  margin-top: 50px;
+
+  img {
+    @media(max-width: 991px){}
+    margin-bottom: 25px;
+  }
+}
+
+//Prótese
+.protese__descricao {
+  img {
+    @media(max-width: 991px){}
+    margin-bottom: 25px;
+  }
+}
+
+//Endodontia
+.endodontia__descricao {
+  margin-bottom: 25px;
+}
+
+.endodontia__detalhes {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.endodontia__detalhes__casos-comuns {
+  margin-top: 50px;
+}
+
+.endodontia__infografico {
+  clear: both;
+
+  @media(max-width: 991px){
+    text-align: center;
+
+    img {
+      margin: auto;
+    }
+  }
+
+  img {
+    @media(max-width: 991px){
+      width: 250px;
+    }
+  }
+}
+
+.col-infografico,
+.col-sm-infografico,
+.col-md-infografico,
+.col-lg-infografico {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px
+}
+
+.col-infografico {
+  width: 20%;
+  float: left
+}
+
+@media(min-width: 768px) {
+  .col-sm-infografico {
+    width:20%;
+    float: left
+  }
+}
+
+@media(min-width: 992px) {
+  .col-md-infografico {
+    width:20%;
+    float: left
+  }
+}
+
+@media(min-width: 1200px) {
+  .col-lg-infografico {
+    width:20%;
+    float: left
+  }
+}
+
 //Contato
 .contato__description {
-  margin-bottom: 75px;
+  margin-bottom: 35px;
 }
 
 .mapa {

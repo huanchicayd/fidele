@@ -1,0 +1,90 @@
+.nav-especialidades {
+  position: relative;
+  margin-bottom: 25px;
+
+  a {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: $text-medium;
+    color: $text-color;
+    display: inline-block;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+}
+
+.nav-especialidades__btn {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  font-family: $text-medium;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: $text-color;
+
+  &:hover {
+    color: $color-primary;
+  }
+
+  &:before {
+    content: '';
+    display: inline-block;
+    width: 1px;
+    height: 10px;
+    background: $text-color;
+    position: relative;
+    top: 0;
+    margin-left: 5px;
+    margin-right: 10px;
+  }
+}
+
+.nav-especialidades__menu {
+  background: $color-primary;
+  margin-bottom: 25px;
+  position: absolute;
+  top: 40px;
+  left: 60px;
+  width: 230px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .5s;
+  z-index: 10;
+
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -9px;
+    left: 15px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 5px 8.7px 5px;
+    border-color: transparent transparent $color-primary transparent;
+    z-index: 10;
+  }
+
+  a {
+    display: block;
+    color: #fff;
+    font-family: $text-medium;
+    padding: 15px 25px;
+    text-transform: inherit;
+    font-size: 18px;
+
+    &:hover {
+      color: #fff;
+      text-decoration: underline;
+      background: darken($color-primary, 5%);
+    }
+  }
+}
+
+.nav-especialidades--active {
+  opacity: 1;
+  visibility: visible;
+}

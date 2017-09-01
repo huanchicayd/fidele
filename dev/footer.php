@@ -26,7 +26,7 @@
             </div>
             <div class="col-lg-3 col-sm-3 col-12">
                 <div class="copyright">
-                    <a href="#">
+                    <a href="http://www.natiocriativo.com" target="_blank" title="Desenvolvido por Natio Criativo. Visite nosso site: www.natiocriativo.com">
                         <i class="logo-natio"></i>
                     </a>
                 </div>
@@ -34,6 +34,11 @@
         </div>
     </div>
 </footer>
+
+<a href="#" class="btn-back">
+    <span class="arrow"></span>
+</a>
+
 
 <script src="scripts/plugins/jquery-3.2.1.min.js"></script>
 <script src="scripts/plugins/slick.min.js"></script>

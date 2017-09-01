@@ -54,8 +54,8 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="thumb">
-                        <h3>Estética</h3>
-                        <a href="#" class="thumb--active">
+                        <h3>Restauração estética</h3>
+                        <a href="estetica.php" class="thumb--active">
                             <div class="thumb__container">
                                 <div class="thumb__overlay">
                                     <img src="images/estetica-icon.svg" alt="">
@@ -69,7 +69,7 @@
                 <div class="col-lg-4">
                     <div class="thumb">
                         <h3>Implantodontia</h3>
-                        <a href="#" class="thumb--active">
+                        <a href="implantodontia.php" class="thumb--active">
                             <div class="thumb__container">
                                 <div class="thumb__overlay">
                                     <img src="images/implante-icon.svg" alt="">
@@ -83,7 +83,7 @@
                 <div class="col-lg-4">
                     <div class="thumb">
                         <h3>Ortodontia</h3>
-                        <a href="#" class="thumb--active">
+                        <a href="ortodontia.php" class="thumb--active">
                             <div class="thumb__container">
                                 <div class="thumb__overlay">
                                     <img src="images/orto-icon.svg" alt="">

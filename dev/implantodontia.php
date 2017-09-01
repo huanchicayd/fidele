@@ -2,7 +2,8 @@
 
 <main>
     <div class="banner banner__banner-especialidades"></div>
-    <section>
+    <?php include('nav-especialidades.php') ?>
+    <section class="implantodontia__descricao">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -10,13 +11,15 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-3">
-                    <img src="images/implante01_mini.jpg" alt="">
-                    <strong>Antes do implante</strong>
-                    <img src="images/implante02_mini.jpg" alt="">
-                    <strong>Depois do implante</strong>
+                <div class="col-lg-3 col-md-4 col-sm-4">
+                    <div class="implantodontia__descricao__imagens">
+                        <img src="images/implante01_mini.jpg" alt="">
+                        <strong>Antes do implante</strong>
+                        <img src="images/implante02_mini.jpg" alt="">
+                        <strong>Depois do implante</strong>
+                    </div>
                 </div>
-                <div class="col-lg-9">
+                <div class="col-lg-9 col-md-8 col-sm-8">
                     <p>
                         O implante dental é indicado para repor a perda de todos os dentes, alguns ou de apenas um dente.
                     </p>
@@ -33,7 +36,10 @@
             </div>
         </div>
     </section>
-    <section>
+    <div class="container">
+        <div class="linha"></div>
+    </div>
+    <section class="implantodontia__detalhes__enxerto">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -51,7 +57,10 @@
             </div>
         </div>
     </section>
-    <section>
+    <div class="container">
+        <div class="linha"></div>
+    </div>
+    <section class="implantodontia__detalhes__carga">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -62,13 +71,13 @@
                 </div>
                 <div class="col-lg-8">
                     <p>
-                        Devido aos avanços científicos, hoje é possível, em determinados casos, entrar no consultório sem dentes e sair, ao final de 48 horas, com todos os dentes fixos sobre os implantes dentário. Essa tecnologia, conhecida como Carga Imediata, proporciona uma grande satisfação aos pacientes, graças aos rápido resultados.
+                        Devido aos avanços científicos, hoje é possível, em determinados casos, entrar no consultório sem dentes e sair, <strong>ao final de 48 horas, com todos os dentes fixos sobre os implantes dentário.</strong> Essa tecnologia, conhecida como Carga Imediata, proporciona uma grande satisfação aos pacientes, graças aos rápido resultados.
                     </p>
                     <p>
                         Neste tipo de implante o dentista, em casos selecionados, coloca a prótese logo após a cirurgia ou poucos dias depois da instalação do implante; As próteses utilizadas na carga imediata são temporárias e devem ser substituídas após algum tempo;
                     </p>
                     <p>
-                        A carga imediata pode ser realizada para um único dente ou para todos os dentes, mas nem sempre é utilizada, pois depende de condições específicas e favoráveis, por isso planejamos com critério e buscamos sempre o tratamento ideal.
+                        <strong>A carga imediata pode ser realizada para um único dente ou para todos os dentes</strong>, mas nem sempre é utilizada, pois depende de condições específicas e favoráveis, por isso planejamos com critério e buscamos sempre o tratamento ideal.
                     </p>
                 </div>
                 <div class="col-lg-12">

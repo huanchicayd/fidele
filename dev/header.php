@@ -29,7 +29,7 @@
                             <span class="nav--divider"></span>
                             <li class="nav__item"><a href="sobre.php">Sobre</a></li>
                             <span class="nav--divider"></span>
-                            <li class="nav__item"><a href="especialidades.php">Especialidades</a></li>
+                            <li class="nav__item"><a href="especialidades.php" class="link-especialidades">Especialidades</a></li>
                             <span class="nav--divider"></span>
                             <li class="nav__item"><a href="contato.php">Contato</a></li>
                         </ul>

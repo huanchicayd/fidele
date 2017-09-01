@@ -2,7 +2,8 @@
 
 <main>
     <div class="banner banner__banner-especialidades"></div>
-    <section>
+    <?php include('nav-especialidades.php') ?>
+    <section class="estetica__descricao">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -24,7 +25,10 @@
             </div>
         </div>
     </section>
-    <section>
+    <div class="container">
+        <div class="linha"></div>
+    </div>
+    <section class="estetica__detalhes">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -38,7 +42,7 @@
                     </p>
                     <h6>Existem dois tipos de clareamento:</h6>
                     <p>
-                        Caseiro
+                        Caseiro<br>
                         Consultório
                     </p>
                 </div>
