@@ -1,4 +1,4 @@
-<h1>Fidele, odontologia de confiança</h1>
+<h1>Fidele, Odontologia de confiança</h1>
 <h5>Developed with <a href="http://www.natiocriativo.com" target="_blank">Natio Criativo</a></h5>
 
 <strong>Description:</strong><br>
