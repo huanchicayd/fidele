@@ -1,17 +1,22 @@
 <h1>Fidele, odontologia de confiança</h1>
-<h5>Produzido por <a href="http://www.natiocriativo.com" target="_blank">Natio Criativo</a></h5>
+<h5>Developed with <a href="http://www.natiocriativo.com" target="_blank">Natio Criativo</a></h5>
 
-<strong>Descrição:</strong><br>
-Projeto que tem por finalidade divulgar os serviços e a clínica odontológica Fidele.
+<strong>Description:</strong><br>
+Fidele is a website that presents the odonto clinic business, services and contact.
 
-<strong>Recursos:</strong><br>
+<strong>Technologies used:</strong><br>
 HTML5<br>
 CSS3/SASS<br>
 Javascript/Jquery<br>
 Bootstrap 4 Grid<br>
 Slick Slider<br>
-Otimização para performance<br>
-Gulp<br>
+Performance Optimization<br>
+Gulp Task<br>
 
-<strong>Protótipo:</strong> (Atualização 2017)<br>
+<strong>Prototype:</strong><br>
 http://danielhuanchicay.com/prototipo/fidele
+* This prototype was developed in 2017 as an update of my code and design.
+
+<strong>Oficial site:</strong><br>
+http://www.fideleodontologia.com.br
+* Here is the oficial site developed in 2015.
