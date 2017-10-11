@@ -2,41 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="417b02cd-a0fe-4aeb-b461-3fc79b4fc823" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/endodontia.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/nav-especialidades.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/prevencao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protese.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/styles/components/_nav-especialidades.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/images/banner-contato.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/images/banner-especialidades.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/images/banner-sobre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/images/slider-image-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/images/slider-image-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/images/slider-image-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/images/slider-image-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/banner-contato.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/banner-especialidades.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/banner-sobre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/slider-image-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/slider-image-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/slider-image-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/slider-image-04.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/banner-contato.jpg" afterPath="$PROJECT_DIR$/dev/images/banner-contato.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/banner-especialidades.jpg" afterPath="$PROJECT_DIR$/dev/images/banner-especialidades.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/banner-sobre.jpg" afterPath="$PROJECT_DIR$/dev/images/banner-sobre.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/endo_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/endo_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/estetica01_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/estetica01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/estetica02_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/estetica02_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/estetica_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/estetica_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/implante03_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/implante03_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/implante_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/implante_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/odonto_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/odonto_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/orto01_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/orto01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/orto02_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/orto02_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/orto03_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/orto03_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/orto04_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/orto04_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/orto05_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/orto05_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/orto06_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/orto06_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/orto07_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/orto07_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev01_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev02_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev02_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev03_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev03_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev04_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev04_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev05_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev05_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev06_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev06_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev07_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev07_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev08_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev08_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/prev_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/prev_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/protese01_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/protese01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/protese_mini.jpg" afterPath="$PROJECT_DIR$/dev/images/protese_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/slider-image-01.jpg" afterPath="$PROJECT_DIR$/dev/images/slider-image-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/slider-image-02.jpg" afterPath="$PROJECT_DIR$/dev/images/slider-image-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/slider-image-03.jpg" afterPath="$PROJECT_DIR$/dev/images/slider-image-03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/slider-image-04.jpg" afterPath="$PROJECT_DIR$/dev/images/slider-image-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/banner-contato.jpg" afterPath="$PROJECT_DIR$/dist/images/banner-contato.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/banner-especialidades.jpg" afterPath="$PROJECT_DIR$/dist/images/banner-especialidades.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/banner-sobre.jpg" afterPath="$PROJECT_DIR$/dist/images/banner-sobre.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/endo01.jpg" afterPath="$PROJECT_DIR$/dist/images/endo01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/endo02.jpg" afterPath="$PROJECT_DIR$/dist/images/endo02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/endo03.jpg" afterPath="$PROJECT_DIR$/dist/images/endo03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/endo04.jpg" afterPath="$PROJECT_DIR$/dist/images/endo04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/endo_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/endo_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/estetica01_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/estetica01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/estetica02_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/estetica02_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/estetica_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/estetica_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele2.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele3.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fidele4.jpg" afterPath="$PROJECT_DIR$/dist/images/fidele4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/implante01_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/implante01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/implante02_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/implante02_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/implante03_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/implante03_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/implante_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/implante_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/odonto_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/odonto_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/orto01_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/orto01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/orto02_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/orto02_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/orto03_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/orto03_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/orto04_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/orto04_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/orto05_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/orto05_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/orto06_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/orto06_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/orto07_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/orto07_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev01_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev02_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev02_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev03_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev03_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev04_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev04_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev05_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev05_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev06_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev06_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev07_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev07_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev08_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev08_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/prev_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/prev_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/protese01_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/protese01_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/protese_mini.jpg" afterPath="$PROJECT_DIR$/dist/images/protese_mini.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/slider-image-01.jpg" afterPath="$PROJECT_DIR$/dist/images/slider-image-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/slider-image-02.jpg" afterPath="$PROJECT_DIR$/dist/images/slider-image-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/slider-image-03.jpg" afterPath="$PROJECT_DIR$/dist/images/slider-image-03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/slider-image-04.jpg" afterPath="$PROJECT_DIR$/dist/images/slider-image-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fidele.iml" afterPath="$PROJECT_DIR$/.idea/fidele.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/especialidades.php" afterPath="$PROJECT_DIR$/dev/especialidades.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/estetica.php" afterPath="$PROJECT_DIR$/dev/estetica.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/footer.php" afterPath="$PROJECT_DIR$/dev/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/contato.php" afterPath="$PROJECT_DIR$/dev/contato.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/header.php" afterPath="$PROJECT_DIR$/dev/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/implantodontia.php" afterPath="$PROJECT_DIR$/dev/implantodontia.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/index.php" afterPath="$PROJECT_DIR$/dev/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/ortodontia.php" afterPath="$PROJECT_DIR$/dev/ortodontia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/mail-icon.svg" afterPath="$PROJECT_DIR$/dev/images/mail-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/phone-icon.svg" afterPath="$PROJECT_DIR$/dev/images/phone-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/images/pin-icon.svg" afterPath="$PROJECT_DIR$/dev/images/pin-icon.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/scripts/main.js" afterPath="$PROJECT_DIR$/dev/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/sobre.php" afterPath="$PROJECT_DIR$/dev/sobre.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/base/_base.scss" afterPath="$PROJECT_DIR$/dev/styles/base/_base.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/components/_banner.scss" afterPath="$PROJECT_DIR$/dev/styles/components/_banner.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" afterPath="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/components/_nav.scss" afterPath="$PROJECT_DIR$/dev/styles/components/_nav.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss" afterPath="$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/layout/_content.scss" afterPath="$PROJECT_DIR$/dev/styles/layout/_content.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/layout/_footer.scss" afterPath="$PROJECT_DIR$/dev/styles/layout/_footer.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/style.css" afterPath="$PROJECT_DIR$/dev/styles/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/style.css.map" afterPath="$PROJECT_DIR$/dev/styles/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/styles/style.scss" afterPath="$PROJECT_DIR$/dev/styles/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/especialidades.php" afterPath="$PROJECT_DIR$/dist/especialidades.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/estetica.php" afterPath="$PROJECT_DIR$/dist/estetica.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/footer.php" afterPath="$PROJECT_DIR$/dist/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/contato.php" afterPath="$PROJECT_DIR$/dist/contato.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/header.php" afterPath="$PROJECT_DIR$/dist/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/implantodontia.php" afterPath="$PROJECT_DIR$/dist/implantodontia.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.php" afterPath="$PROJECT_DIR$/dist/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/ortodontia.php" afterPath="$PROJECT_DIR$/dist/ortodontia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/mail-icon.svg" afterPath="$PROJECT_DIR$/dist/images/mail-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/phone-icon.svg" afterPath="$PROJECT_DIR$/dist/images/phone-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/pin-icon.svg" afterPath="$PROJECT_DIR$/dist/images/pin-icon.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/scripts/main.js" afterPath="$PROJECT_DIR$/dist/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sobre.php" afterPath="$PROJECT_DIR$/dist/sobre.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/styles/style.css" afterPath="$PROJECT_DIR$/dist/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +127,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -74,7 +149,6 @@
         <option value="$PROJECT_DIR$/dist/scripts/main.js" />
         <option value="$PROJECT_DIR$/dev/styles/base/_grid.scss" />
         <option value="$PROJECT_DIR$/dev/styles/base/_normalize.scss" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/dev/styles/base/_reset.scss" />
         <option value="$PROJECT_DIR$/dev/styles/plugins/_slick.scss" />
@@ -82,23 +156,16 @@
         <option value="$PROJECT_DIR$/dev/styles/components/_thumb.scss" />
         <option value="$PROJECT_DIR$/dev/styles/base/_fontes.scss" />
         <option value="$PROJECT_DIR$/dev/styles/layout/_header.scss" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/dev/contato.php" />
         <option value="$PROJECT_DIR$/dev/index.php" />
-        <option value="$PROJECT_DIR$/dev/header.php" />
         <option value="$PROJECT_DIR$/dev/footer.php" />
         <option value="$PROJECT_DIR$/dev/styles/base/_base.scss" />
         <option value="$PROJECT_DIR$/dev/especialidades.php" />
         <option value="$PROJECT_DIR$/dev/sobre.php" />
         <option value="$PROJECT_DIR$/dev/styles/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/dev/styles/components/_nav.scss" />
-        <option value="$PROJECT_DIR$/dev/styles/layout/_content.scss" />
         <option value="$PROJECT_DIR$/dev/styles/helpers/_variaveis.scss" />
-        <option value="$PROJECT_DIR$/dev/styles/components/_banner.scss" />
-        <option value="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" />
         <option value="$PROJECT_DIR$/dev/styles/style.scss" />
         <option value="$PROJECT_DIR$/dev/estetica.php" />
-        <option value="$PROJECT_DIR$/dev/scripts/main.js" />
         <option value="$PROJECT_DIR$/dev/nav-especialidades.php" />
         <option value="$PROJECT_DIR$/dev/styles/components/_nav-especialidades.scss" />
         <option value="$PROJECT_DIR$/dev/endodontia.php" />
@@ -106,16 +173,24 @@
         <option value="$PROJECT_DIR$/dev/ortodontia.php" />
         <option value="$PROJECT_DIR$/dev/prevencao.php" />
         <option value="$PROJECT_DIR$/dev/protese.php" />
+        <option value="$PROJECT_DIR$/dev/styles/layout/_content.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/dev/header.php" />
+        <option value="$PROJECT_DIR$/dev/styles/components/_main-slider.scss" />
+        <option value="$PROJECT_DIR$/dev/styles/components/_banner.scss" />
+        <option value="$PROJECT_DIR$/dev/contato.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dev/scripts/main.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
+    <service-enabled>true</service-enabled>
     <exe-path />
     <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
+    <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
@@ -125,12 +200,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.0">
-    <include_path>
-      <path value="" />
-    </include_path>
+  <component name="PhpServers">
+    <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="214" />
     <option name="y" value="16" />
     <option name="width" value="1303" />
@@ -147,6 +221,11 @@
             <id>Spelling</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -168,6 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,64 +255,20 @@
               <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
               <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="base" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="helpers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fidele" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fidele" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tools/IntelliJ.Portuguese.Brazil.Dictionary-master/IntelliJ.Portuguese.Brazil.Dictionary-master" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -269,6 +305,9 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$PROJECT_DIR$/../tools/IntelliJ.Portuguese.Brazil.Dictionary-master/IntelliJ.Portuguese.Brazil.Dictionary-master" Dictionaries="0" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="417b02cd-a0fe-4aeb-b461-3fc79b4fc823" name="Default" comment="" />
@@ -287,17 +326,28 @@
       <workItem from="1504036146734" duration="14433000" />
       <workItem from="1504092077817" duration="16946000" />
       <workItem from="1504177640389" duration="9352000" />
-      <workItem from="1504266068704" duration="17230000" />
+      <workItem from="1504266068704" duration="20424000" />
+      <workItem from="1504534293087" duration="129000" />
+      <workItem from="1504609045943" duration="52000" />
+      <workItem from="1504609115967" duration="363000" />
+      <workItem from="1504609498683" duration="256000" />
+      <workItem from="1504734183370" duration="822000" />
+      <workItem from="1504735395243" duration="2765000" />
+      <workItem from="1504745060503" duration="878000" />
+      <workItem from="1504779504390" duration="229000" />
+      <workItem from="1504906098270" duration="593000" />
+      <workItem from="1505504201944" duration="433000" />
+      <workItem from="1507738977000" duration="3117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128159000" />
+    <option name="totallyTimeSpent" value="140990000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13946016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14203085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
@@ -305,7 +355,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32413793" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32275862" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -317,6 +367,27 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32413793" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -343,13 +414,6 @@
     <entry file="file://$USER_HOME$/Desktop/Nova pasta/FuturaStd-Light/styles.css" />
     <entry file="file://$USER_HOME$/Desktop/Nova pasta/FuturaStd-Medium/styles.css" />
     <entry file="file://$USER_HOME$/Desktop/Nova pasta/FuturaStd-Heavy/styles.css" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -375,13 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="75" lean-forward="false" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -427,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -442,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-440">
           <caret line="237" column="0" lean-forward="true" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -450,7 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3196">
           <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -459,14 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48246">
           <caret line="1415" column="26" lean-forward="true" selection-start-line="1415" selection-start-column="26" selection-end-line="1415" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -479,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,31 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="57" column="45" lean-forward="false" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="105" lean-forward="false" selection-start-line="31" selection-start-column="105" selection-end-line="31" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/contato.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -535,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,15 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -575,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,15 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="90" column="3" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/layout/_content.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2055">
-          <caret line="81" column="26" lean-forward="false" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,23 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/components/_banner.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/styles/components/_main-slider.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="52" column="49" lean-forward="false" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,9 +637,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/layout/_content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="248" column="17" lean-forward="true" selection-start-line="248" selection-start-column="17" selection-end-line="248" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/contato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1736">
+          <caret line="49" column="11" lean-forward="true" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/components/_banner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/styles/components/_main-slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

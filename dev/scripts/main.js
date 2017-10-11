@@ -5,8 +5,8 @@ $(document).ready(function(){
         arrows: false,
         dots: true,
         autoplay: true,
-        autoplaySpeed: 3000,
-        speed: 1500
+        autoplaySpeed: 3250,
+        speed: 1350
     });
 
     //Mobile menu
@@ -22,14 +22,25 @@ $(document).ready(function(){
 
     //Active nav links
     $(function(){
-        var pgurl = window.location.href.substr(window.location.href.lastIndexOf("/") + 1);
+        var pgurl = window.location.href.substr(
+            window.location.href.lastIndexOf('/') + 1
+        );
 
-        $(".nav a").each(function(){
-            if($(this).attr("href") === pgurl || $(this).attr("href") === '')
-                $(this).addClass("active-link");
+        var $menuLinks = $('.nav a');
+
+        $menuLinks.each(function(){
+            if($(this).attr('href') === pgurl) {
+                $(this).addClass('active-link');
+            }
         });
 
-        var pgurlEspecialidades = window.location.href.substr(window.location.href.lastIndexOf("/") + 1);
+        if(pgurl === ''){
+            $('.nav a[href="index.php"]').addClass('active-link');
+        }
+
+        var pgurlEspecialidades = window.location.href.substr(
+            window.location.href.lastIndexOf('/') + 1
+        );
 
         if(pgurlEspecialidades === 'estetica.php' ||
             pgurlEspecialidades === 'implantodontia.php' ||

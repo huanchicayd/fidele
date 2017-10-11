@@ -5,8 +5,10 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="theme-color" content="#16b68a">
     <title>Fidele | Odontologia de confiança</title>
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="icon" href="images/favicon.png">
 </head>
 <body>
     <header class="navbar">
@@ -25,13 +27,13 @@
                             <span></span>
                         </button>
                         <ul class="nav">
-                            <li class="nav__item"><a href="index.php">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <span class="nav--divider"></span>
-                            <li class="nav__item"><a href="sobre.php">Sobre</a></li>
+                            <li><a href="sobre.php">Sobre</a></li>
                             <span class="nav--divider"></span>
-                            <li class="nav__item"><a href="especialidades.php" class="link-especialidades">Especialidades</a></li>
+                            <li><a href="especialidades.php" class="link-especialidades">Especialidades</a></li>
                             <span class="nav--divider"></span>
-                            <li class="nav__item"><a href="contato.php">Contato</a></li>
+                            <li><a href="contato.php">Contato</a></li>
                         </ul>
                     </nav>
                 </div>

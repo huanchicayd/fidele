@@ -2,6 +2,10 @@
   height: 450px;
   margin-bottom: 90px;
   border-bottom: 6px solid $color-primary-light;
+
+  @media(max-width: 480px){
+    margin-bottom: 50px;
+  }
   
   &:after {
     content: '';
@@ -12,6 +16,7 @@
     width: 100%;
     height: 450px;
     background: url("../images/slider-bg.svg");
+    background-size: cover;
     z-index: 1;
   }
 }
@@ -19,6 +24,10 @@
 .banner__banner-sobre {
   background: url("../images/banner-sobre.jpg") no-repeat top center;
   background-size: cover;
+
+  @media(max-width: 480px){
+    background: url("../images/banner-sobre-mobile.jpg") no-repeat top right;
+  }
  }
 
 .banner__banner-especialidades {
@@ -26,7 +35,7 @@
   background-size: cover;
 
   @media(max-width: 480px){
-    background-position: left;
+    background: url("../images/banner-especialidades-mobile.jpg") no-repeat top left;
   }
 }
 
@@ -35,6 +44,6 @@
   background-size: cover;
 
   @media(max-width: 480px){
-    background-position: center;
+    background: url("../images/banner-contato-mobile.jpg") no-repeat top right;
   }
 }

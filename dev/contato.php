@@ -14,16 +14,6 @@
                 </div>
             </div>
         </section>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="linha"></div>
-                        <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d772.557569716775!2d-43.248572557332984!3d-22.91617998960985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997e741e80d123%3A0x67ba2aa0992ac86c!2sFidele!5e0!3m2!1spt-BR!2sbr!4v1504023799706" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section class="contato-informacoes">
             <div class="container">
                 <div class="row">
@@ -37,13 +27,22 @@
                         <img src="images/phone-icon.svg" alt="">
                         <div class="linha"></div>
                         <h6>Telefone:</h6>
-                        <p>(21) 2577-4486 | 2577-0820</p>
+                        <p>(21) 2577-4486 | (21) 2577-0820</p>
                     </div>
                     <div class="col-lg-4">
                         <img src="images/mail-icon.svg" alt="">
                         <div class="linha"></div>
                         <h6>Email:</h6>
                         <p>laura@fideleodontologia.com.br</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d459.3657233078422!2d-43.24838973116518!3d-22.916108005680005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997e741e80d123%3A0x67ba2aa0992ac86c!2sFidele!5e0!3m2!1spt-BR!2sbr!4v1504534155235" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>

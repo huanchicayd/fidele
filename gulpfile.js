@@ -28,7 +28,7 @@ gulp.task('build-img', function(){
         .pipe(imagemin([
             imageminJpegRecompress({
                 loops: 6,
-                min: 40,
+                min: 25,
                 max: 85,
                 quality: 'low'
             })
