@@ -51,6 +51,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  overflow: hidden;
 
   &:before,
   &:after {
@@ -71,6 +72,7 @@
   float: left;
   height: 100%;
   min-height: 1px;
+  overflow: hidden;
   [dir="rtl"] & {
     float: right;
   }
@@ -148,6 +150,7 @@ $slick-opacity-not-active: 0.25 !default;
 /* Slider */
 
 .slick-list {
+  overflow: hidden;
   .slick-loading & {
     background: #fff slick-image-url("ajax-loader.gif") center center no-repeat;
   }
