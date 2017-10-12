@@ -7,6 +7,31 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="theme-color" content="#16b68a">
     <title>Fidele | Odontologia de confiança</title>
+    <!-- SEO Section -->
+    
+    <meta name="description" content="Fidele, Odontologia de confiança. Temos como objetivo a conquista e a manutenção da sua saúde bucal.">
+    <meta name="keywords" content="Fidele, Odontologia, Clínica, Dentista, Ortodontia, Implantodontia, Estética, Laura Zitto, Endodontia, Vila, Isabel">
+    <meta name="robots" content="nofollow, noindex" />
+    <meta name="google" content="notranslate" />
+
+    <!--Social: Facebook-->
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:url" content="http://www.fideleodontologia.com.br/">
+    <meta property="og:title" content="Fidele, Odontologia de confiança">
+    <meta property="og:site_name" content="Fidele Odontologia">
+    <meta property="og:description" content="Fidele, Odontologia de confiança. Temos como objetivo a conquista e a manutenção da sua saúde bucal.">
+    <meta property="og:image" content="www.fideleodontologia.com.br/images/imagem.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="600">
+    <meta property="og:type" content="website">
+
+    <!-- Social: Google+ / Schema.org  -->
+    <meta itemprop="name" content="Fidele, Odontologia de confiança">
+    <meta itemprop="description" content="Fidele, Odontologia de confiança. Temos como objetivo a conquista e a manutenção da sua saúde bucal">
+    <meta itemprop="image" content="">
+
+    <!--  -->
     <link rel="stylesheet" href="styles/style.css">
     <link rel="icon" href="images/favicon.png">
 </head>
