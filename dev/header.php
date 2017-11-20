@@ -6,9 +6,10 @@
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="theme-color" content="#16b68a">
+    <meta name="robots" content="nofollow">
     <title>Fidele | Odontologia de confiança</title>
     <!-- SEO Section -->
-    
+
     <meta name="description" content="Fidele, Odontologia de confiança. Temos como objetivo a conquista e a manutenção da sua saúde bucal.">
     <meta name="keywords" content="Fidele, Odontologia, Clínica, Dentista, Ortodontia, Implantodontia, Estética, Laura Zitto, Endodontia, Vila, Isabel">
     <meta name="robots" content="nofollow, noindex" />
